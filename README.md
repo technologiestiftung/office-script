@@ -1,5 +1,6 @@
 # Office Script
 
+![](offcice-script.png)
 In a nutshell it is JavaScript/TypeScript that you can use to automate task in Excel. You can do things like `fetch`[^1], `async/await` and many other modern JS features. It is unclear which TypeScript and EcmaScript versions are used and also which runtime is used.
 
 Still you can do many useful things with it. This write down is not a documentation on how to write scripts. It is more a loose collection of findings around it.
