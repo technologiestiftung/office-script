@@ -52,6 +52,10 @@ The most interesting thing here that you can do HTTP requests from within Excel.
 
 ## Findings
 
+### Types in Excel
+
+A cell can only have on of these three types `string | number | boolean` everything else is formatting. So a date is actually a number where you apply formatting.
+
 ### Tables in Excel
 
 Yeah sounds wired. This is a feature I never encountered in Excel spreadsheets I got. It is called a [table](https://support.microsoft.com/en-gb/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c).
